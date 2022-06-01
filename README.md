@@ -1,6 +1,6 @@
 # Updated-Router-Project
 ## Description
-This is a single page application that provides information about ground school, a sign in page, pricing and blog.
+This is the shell of a single page application. Currently there is a navbar with links to sign-in, blog and pricing. All content is from Boostrap.
 
 ## How to Run
 Open the files using a local server to run. I like the terminal command npm install -- global http-server.
